@@ -1,0 +1,3 @@
+1. Div bu block-level organisation uchun ishlatilinadi yani bloklarni tartibga solish uchun, span inline organisation va style berish uchun ishlatilinadi (text, ikon...)
+2. Har bir HTML elementini o'rab turgan qutilarni ichki tartibi uchun ishlatilinadi.
+3. this. kalit so'zi asosan  klass ichida joriy obyekt uchun klass o'zgaruvchilari yoki funksiyalarining statik bo'lmagan a'zolariga kirish(dostup) uchun member functions(a'zo funksiyalari) bilan birga ishlatiladi.
